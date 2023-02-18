@@ -1,0 +1,192 @@
+quotes=[
+[Math is fun. It teaches you life and death information like when you’re cold, you should go to a corner since it’s 90 degrees there.
+— Anonymous],
+
+[Pure mathematics is the world’s best game. It is more absorbing than chess, more of a gamble than poker, and lasts longer than Monopoly. It’s free. It can be played anywhere — Archimedes did it in a bathtub.
+— Richard J. Trudeau, mathematician],
+
+[Mathematics consists of proving the most obvious thing in the least obvious way.
+— George Pólya, Hungarian mathematician],
+
+[In mathematics, you don’t understand things. You just get used to them.
+— John von Neumann],
+
+[There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
+— Raoul Bott, Hungarian-American mathematician],
+
+[Five out of four people have trouble with fractions.
+— Steven Wright, American stand-up comedian],
+
+[Mathematics is a hard thing to love. It has the unfortunate habit, like a rude dog, of turning its most unfavorable side towards you when you first make contact with it.
+— David Whiteland, English author],
+
+[If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+— John von Neumann, American-hungarian mathematician],
+
+[Mathematics is a game played according to certain simple rules with meaningless marks on paper.
+— David Hilbert],
+
+[Dear Math, please grow up and solve your own problems. I’m tired of solving them for you.
+— Anonymous],
+
+[I am still waiting for the day I’ll use mathematics integration in real life.
+— Derrick Obedgiu],
+
+[Arithmetic is numbers you squeeze from your head to your hand to your pencil to your paper till you get the answer.
+— Carl Sandburg, American poet],
+
+[That awkward moment when you finish a math problem and your answer isn’t even one of the choices.
+— Ritu Ghatourey, Indian feminist, writer and publisher],
+
+[Mathematics is like love; a simple idea, but it can get complicated.
+— Anonymous],
+
+[If there is a 50-50 chance that something can go wrong, then nine times out of 10 it will.
+— Paul Harvey, American radio broadcaster],
+
+[I’ve always been interested in using mathematics to make the world work better.
+— Alvin E. Roth, American academic],
+
+[I hope that seeing the excitement of solving this problem will make mathematicians realize that there are lots and lots of other problems in mathematics which are going to be just as challenging in the future.
+— Andrew Wiles],
+
+[The only way to learn mathematics is to do mathematics.
+— Paul R. Halmos, Hungarian-American mathematician],
+
+[It’s fine to work on any problem, so long as it generates interesting mathematics along the way — even if you don’t solve it at the end of the day.
+— Andrew Wiles],
+
+[You don’t have to be a mathematician to have a feel for numbers.
+— John Forbes Nash, Jr., American mathematician],
+
+[Sometimes the questions are complicated and the answers are simple.
+— Dr. Seuss, American children’s author],
+
+[The essence of math is not to make simple things complicated, but to make complicated things simple.
+— Stan Gudder, American mathematician],
+
+[Just because we can’t find a solution, it doesn’t mean there isn’t one.
+— Andrew Wiles, English mathematician],
+
+[Mathematics is a place where you can do things which you can’t do in the real world.
+— Marcus du Sautoy],
+
+[Millions saw the apple fall, but Newton asked why.
+— Bernard Baruch, American financier, philanthropist and statesman],
+
+[The definition of a good mathematical problem is the mathematics it generates rather than the problem itself.
+— Andrew Wiles],
+
+[If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.
+— Galileo Galilei],
+
+[Pure mathematicians just love to try unsolved problems — they love a challenge.
+— Andrew Wiles],
+
+[Wherever there is number, there is beauty.
+— Proclus, Greek philosopher],
+
+[Life is a math equation. In order to gain the most, you have to know how to convert negatives into positives.
+— Anonymous],
+
+[Mathematics may not teach us to add love or subtract hate, but it gives us hope that every problem has a solution.
+— Anonymous],
+
+[One of the endlessly alluring aspects of mathematics is that its thorniest paradoxes have a way of blooming into beautiful theories.
+— Philip J. Davis, American academic applied mathematician],
+
+[Mathematics is not a careful march down a well-cleared highway, but a journey into a strange wilderness, where the explorers often get lost. Rigor should be a signal to the historians that the maps have been made, and the real explorers have gone elsewhere.
+— W.S. Anglin, Mathematics author],
+
+[The pure mathematician, like the musician, is a free creator of his world of ordered beauty.
+— Bertrand Russell, British philosopher],
+
+[Mathematics has beauty and romance. It’s not a boring place to be, the mathematical world. It’s an extraordinary place; it’s worth spending time there.
+— Marcus du Sautoy, British mathematician],
+
+[To me, mathematics, computer science, and the arts are insanely related. They’re all creative expressions.
+— Sebastian Thrun, German innovator, computer scientist and entrepreneur educator],
+
+[The essence of mathematics lies in its freedom.
+— Georg Cantor],
+
+[Why do children dread mathematics? Because of the wrong approach. Because it is looked at as a subject.
+— Shakuntala Devi],
+
+[Many who have had an opportunity of knowing any more about mathematics confuse it with arithmetic, and consider it an arid science. In reality, however, it is a science which requires a great amount of imagination.
+— Sofia Kovalevskaya],
+
+[The study of mathematics, like the Nile, begins in minuteness but ends in magnificence.
+— Charles Caleb Colton, English cleric, writer and collector],
+
+[A mathematician who is not also something of a poet will never be a complete mathematician.
+— Karl Weierstrass, German mathematician],
+
+[Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them.
+— Joseph Fourier, French mathematician and physicist],
+
+[Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.
+— William Paul Thurston, American mathematician],
+
+[Somehow it’s okay for people to chuckle about not being good at math. Yet, if I said “I never learned to read,” they’d say I was an illiterate dolt.
+— Neil deGrasse Tyson, American astrophysicist and author],
+
+[In mathematics the art of proposing a question must be held of higher value than solving it.
+— Georg Cantor, German mathematician],
+
+[It is clear that the chief end of mathematical study must be to make the students think.
+— John Wesley Young, American mathematician],
+
+[Go down deep enough into anything and you will find mathematics.
+— Dean Schlicter],
+
+[Nature is written in mathematical language.
+— Galileo Galilei, Italian astronomer, physicist and engineer],
+
+[Mathematics is a language.
+— Josiah Willard Gibbs, American scientist],
+
+[Mathematics is the music of reason.
+— James Joseph Sylvester, English mathematician],
+
+[Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country.
+— David Hilbert, German mathematician],
+
+[There should be no such thing as boring mathematics.
+— Edsger W. Dijkstra, Dutch systems scientist],
+
+[‘Obvious’ is the most dangerous word in mathematics.
+— Eric Temple Bell, Scottish mathematician],
+
+[Mathematics are the result of mysterious powers which no one understands, and which the unconscious recognition of beauty must play an important part. Out of an infinity of designs a mathematician chooses one pattern for beauty’s sake and pulls it down to earth.
+— Marston Morse, American mathematician],
+
+[Mathematics allows for no hypocrisy and no vagueness.
+— Stendhal (pen name of Marie-Henri Beyle), French writer],
+
+[I’ve always enjoyed mathematics. It is the most precise and concise way of expressing an idea.
+— N.R. Narayana Murthy, Indian IT industrialist],
+
+[It is impossible to be a mathematician without being a poet in soul.
+— Sofia Kovalevskaya, Russian mathematician],
+
+[Pure mathematics is, in its way, the poetry of logical ideas.
+— Albert Einstein, German theoretical physicist],
+
+[Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+— Shakuntala Devi, Indian writer and mental calculator],
+
+[Mathematics is the most beautiful and most powerful creation of the human spirit.
+— Stefan Banach, Polish mathematician],
+
+[We will always have STEM with us. Some things will drop out of the public eye and go away, but there will always be science, engineering, and technology. And there will always, always be mathematics.
+— Katherine Johnson, African-American mathematician],
+
+[Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.
+— Richard Courant, German-American mathematician],
+
+[As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.
+— Albert Einstein],
+
+[What is mathematics? It is only a systematic effort of solving puzzles posed by nature.
+— Shakuntala Devi]]
