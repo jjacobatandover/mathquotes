@@ -190,3 +190,5 @@ quotes=[
 
 [What is mathematics? It is only a systematic effort of solving puzzles posed by nature.
 — Shakuntala Devi]]
+
+#Source = https://www.prodigygame.com/main-en/blog/math-quotes/
